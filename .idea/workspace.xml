@@ -24,7 +24,6 @@
       <change afterPath="$PROJECT_DIR$/../dbifoundation" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hiver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../janelleclothings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/akaninyeneeric.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../manageam_admin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../manageam_api" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../passward" afterDir="false" />
@@ -3734,43 +3733,6 @@
       <change afterPath="$PROJECT_DIR$/../washjunkie" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie-angular" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie_api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blogs.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blogs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ionicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/ionicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons-v=2.0.1.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons-v=2.0.1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons-v=2.0.1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons-v=2.0.1.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/blog/blog1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/blog/blog1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/blog/blog2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/blog/blog3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicons/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kenneth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kenneth.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/person-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/person-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slide-bg-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/work6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/works/work6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/imagesloaded.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/imagesloaded.pkgd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.mb.YTPlayer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/masonry-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/masonry-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/masonry.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/masonry.pkgd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/particles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/typed.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/typed.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3787,8 +3749,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="454" column="56" lean-forward="true" selection-start-line="454" selection-start-column="56" selection-end-line="454" selection-end-column="56" />
+            <state relative-caret-position="607">
+              <caret line="117" column="18" lean-forward="true" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -3797,10 +3759,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
+        <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15225">
-              <caret line="725" column="1" selection-start-line="725" selection-start-column="1" selection-end-line="725" selection-end-column="1" />
+            <state relative-caret-position="808">
+              <caret line="784" column="19" selection-start-line="784" selection-start-column="19" selection-end-line="784" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -3819,6 +3781,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/assets/css/basic.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -3841,6 +3804,11 @@
             <path>
               <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
               <item name="kenneth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kenneth" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -3893,16 +3861,15 @@
       <workItem from="1601901509923" duration="1483000" />
       <workItem from="1601968945784" duration="988000" />
       <workItem from="1601971967327" duration="123000" />
-      <workItem from="1601993857928" duration="1791000" />
+      <workItem from="1601993857928" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12175000" />
+    <option name="totallyTimeSpent" value="13732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1361465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -3938,20 +3905,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="454" column="56" lean-forward="true" selection-start-line="454" selection-start-column="56" selection-end-line="454" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15225">
           <caret line="725" column="1" selection-start-line="725" selection-start-column="1" selection-end-line="725" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="784" column="19" selection-start-line="784" selection-start-column="19" selection-end-line="784" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="117" column="18" lean-forward="true" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

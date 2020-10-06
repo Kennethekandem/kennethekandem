@@ -776,3 +776,11 @@ blockquote {
 
 }
 
+
+/* CUSTOM CSS */
+.mail_link {
+	color: #fdd912;
+}
+.mail_link:hover {
+	color: #000000;
+}
