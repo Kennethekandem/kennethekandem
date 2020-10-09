@@ -192,10 +192,10 @@ $(function () {
 		success: "valid",
 		submitHandler: function() {
 			$.ajax({
-				url: 'mailer/feedback.php',
+				url: 'mail.php',
 				type: 'post',
 				dataType: 'json',
-				data: 'name='+ $("#cform").find('input[name="name"]').val() + '&tel='+ $("#cform").find('input[name="tel"]').val() + '&email='+ $("#cform").find('input[name="email"]').val() + '&subject='+ $("#cform").find('input[name="subject"]').val() + '&message=' + $("#cform").find('textarea[name="message"]').val(),
+				data: $("#cform").serialize(),
 				beforeSend: function() {
 				
 				},

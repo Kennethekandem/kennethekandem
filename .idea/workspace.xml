@@ -3733,7 +3733,7 @@
       <change afterPath="$PROJECT_DIR$/../washjunkie" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie-angular" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie_api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3742,24 +3742,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="190" column="84" selection-start-line="190" selection-start-column="84" selection-end-line="190" selection-end-column="84" />
-              <caret line="214" column="85" selection-start-line="214" selection-start-column="85" selection-end-line="214" selection-end-column="85" />
-              <caret line="239" column="84" selection-start-line="239" selection-start-column="84" selection-end-line="239" selection-end-column="84" />
-              <caret line="263" column="85" selection-start-line="263" selection-start-column="85" selection-end-line="263" selection-end-column="85" />
-              <caret line="288" column="82" selection-start-line="288" selection-start-column="82" selection-end-line="288" selection-end-column="82" />
-              <caret line="312" column="79" selection-start-line="312" selection-start-column="79" selection-end-line="312" selection-end-column="79" />
+            <state relative-caret-position="662">
+              <caret line="422" column="38" lean-forward="true" selection-start-line="422" selection-start-column="38" selection-end-line="422" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="192" column="35" lean-forward="true" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -3778,6 +3790,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>typing-title</find>
+      <find>cform</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -3788,11 +3801,13 @@
       <list>
         <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/assets/css/basic.css" />
+        <option value="$PROJECT_DIR$/assets/js/mail.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
@@ -3819,7 +3834,7 @@
               <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
               <item name="kenneth" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -3877,18 +3892,18 @@
       <workItem from="1601993857928" duration="4011000" />
       <workItem from="1602077165857" duration="9000" />
       <workItem from="1602077337656" duration="5000" />
-      <workItem from="1602156894052" duration="3556000" />
+      <workItem from="1602156894052" duration="4919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17965000" />
+    <option name="totallyTimeSpent" value="19328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1397293" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1397293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -3905,7 +3920,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32320237" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32320237" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -3946,18 +3961,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="190" column="84" selection-start-line="190" selection-start-column="84" selection-end-line="190" selection-end-column="84" />
-          <caret line="214" column="85" selection-start-line="214" selection-start-column="85" selection-end-line="214" selection-end-column="85" />
-          <caret line="239" column="84" selection-start-line="239" selection-start-column="84" selection-end-line="239" selection-end-column="84" />
-          <caret line="263" column="85" selection-start-line="263" selection-start-column="85" selection-end-line="263" selection-end-column="85" />
-          <caret line="288" column="82" selection-start-line="288" selection-start-column="82" selection-end-line="288" selection-end-column="82" />
-          <caret line="312" column="79" selection-start-line="312" selection-start-column="79" selection-end-line="312" selection-end-column="79" />
+        <state relative-caret-position="662">
+          <caret line="422" column="38" lean-forward="true" selection-start-line="422" selection-start-column="38" selection-end-line="422" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="192" column="35" lean-forward="true" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
         </state>
       </provider>
     </entry>
