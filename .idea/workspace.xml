@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../archub_api" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../archub_mobile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blex/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bongist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bongist.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../christfactor" afterDir="false" />
@@ -3733,7 +3734,9 @@
       <change afterPath="$PROJECT_DIR$/../washjunkie" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie-angular" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie_api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3746,41 +3749,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="422" column="38" lean-forward="true" selection-start-line="422" selection-start-column="38" selection-end-line="422" selection-end-column="38" />
+            <state relative-caret-position="371">
+              <caret line="74" column="62" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="192" column="35" lean-forward="true" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/us.sitesucker.mac.sitesucker/beshley.com/hendrix/theme_colors/default/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3993">
-              <caret line="200" column="24" lean-forward="true" selection-start-line="200" selection-start-column="24" selection-end-line="202" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -3791,7 +3768,11 @@
     <findStrings>
       <find>typing-title</find>
       <find>cform</find>
+      <find>'Kaushan Script', helvetica</find>
     </findStrings>
+    <replaceStrings>
+      <replace>'Manrope', sans-serif</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -3800,15 +3781,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/layout.css" />
-        <option value="$PROJECT_DIR$/assets/css/basic.css" />
         <option value="$PROJECT_DIR$/assets/js/mail.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/assets/css/basic.css" />
+        <option value="$PROJECT_DIR$/assets/css/layout.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -3818,6 +3799,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -3825,22 +3807,10 @@
               <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
               <item name="kenneth" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kenneth" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kenneth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kenneth" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -3893,23 +3863,27 @@
       <workItem from="1602077165857" duration="9000" />
       <workItem from="1602077337656" duration="5000" />
       <workItem from="1602156894052" duration="4919000" />
+      <workItem from="1602235163395" duration="331000" />
+      <workItem from="1602489816771" duration="598000" />
+      <workItem from="1606312922605" duration="758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19328000" />
+    <option name="totallyTimeSpent" value="21015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1397293" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -3937,51 +3911,57 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15225">
-          <caret line="725" column="1" selection-start-line="725" selection-start-column="1" selection-end-line="725" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16464">
-          <caret line="784" column="19" selection-start-line="784" selection-start-column="19" selection-end-line="784" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.ttf">
       <provider selected="true" editor-type-id="fontseditor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33202" />
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/us.sitesucker.mac.sitesucker/beshley.com/hendrix/theme_colors/default/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3993">
-          <caret line="200" column="24" lean-forward="true" selection-start-line="200" selection-start-column="24" selection-end-line="202" selection-end-column="30" />
+        <state relative-caret-position="640">
+          <caret line="126" column="93" selection-start-line="126" selection-start-column="93" selection-end-line="126" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="422" column="38" lean-forward="true" selection-start-line="422" selection-start-column="38" selection-end-line="422" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="192" column="35" lean-forward="true" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
+        <state relative-caret-position="808">
+          <caret line="192" column="35" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4839">
+          <caret line="262" column="7" selection-start-line="262" selection-start-column="7" selection-end-line="262" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="311" column="17" selection-start-line="311" selection-start-column="17" selection-end-line="311" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="74" column="62" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -45,7 +45,7 @@
 .header .logo {
 	position: relative;
 	float: left;
-	font-family: 'Kaushan Script', helvetica;
+	font-family: 'Manrope', sans-serif;
 	font-size: 32px;
 	line-height: 46px;
 	font-weight: 600;
@@ -259,7 +259,7 @@
 }
 
 .section .titles .title {
-	font-family: 'Kaushan Script', helvetica;
+	font-family: 'Manrope', sans-serif;
 	color: #292929;
 	font-size: 30px;
 	line-height: 40px;

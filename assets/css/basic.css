@@ -22,6 +22,11 @@
 */
 
 /* 1. Basic */
+
+@font-face {
+	font-family: 'Manrope';
+	src: url("../fonts/Manrope/static/Manrope-Bold.ttf");
+}
 html {
 	margin-right: 0!important;
 }
@@ -304,7 +309,7 @@ h5,
 h6 {
 	margin: 28px 0;
 	font-weight: 400;
-	font-family: 'Kaushan Script', helvetica;
+	font-family: 'Manrope', sans-serif;
 	color: #292929;
 }
 
