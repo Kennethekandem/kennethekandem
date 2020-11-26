@@ -70,6 +70,12 @@ body {
 .fw {
 	margin: 0 auto;
 	position: relative;
+	max-width: 1300px;
+}
+
+.fw-1 {
+	margin: 0 auto;
+	position: relative;
 	max-width: 1160px;
 }
 
@@ -788,4 +794,16 @@ blockquote {
 }
 .mail_link:hover {
 	color: #000000;
+}
+
+@media (max-width: 1024px) {
+	.logo-small {
+		margin-left: -38px;
+	}
+}
+
+@media (max-width: 1440px) {
+	.fw {
+		max-width: 1200px;
+	}
 }

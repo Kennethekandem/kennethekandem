@@ -49,6 +49,7 @@
 	font-size: 32px;
 	line-height: 46px;
 	font-weight: 600;
+	width: 50%;
 }
 
 .header .logo a {
@@ -66,6 +67,11 @@
 	-moz-transition: all 0.4s ease 0s;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
+}
+
+.header-text {
+	position: relative;
+	top: 400px;
 }
 
 @media (max-width: 1079px) {
@@ -252,6 +258,10 @@
 		padding: 40px 0;
 	}
 
+	.header-text {
+		top: 250px;
+	}
+
 }
 
 .section.gray {
@@ -275,8 +285,9 @@
 
 /* 3. Started */
 .section.started {
+	background-color: #000000;
+	height: 100vh !important;
 	padding: 0;
-	background: #292929;
 }
 
 .section.started .slide {
@@ -293,7 +304,7 @@
 .section.started .st-title,
 .section.started .typed-title {
 	position: relative;
-	margin: 30px 50px 15px 50px;
+	/*margin: 30px 50px 15px 50px;*/
 	font-size: 100px;
 	line-height: 100px;
 	color: #ffffff;
@@ -756,6 +767,44 @@ footer .copy {
 
 .typing-title h1 {
 	color: #fff;
-	font-size: 6rem;
+	font-size: 8rem;
+}
+
+@media (max-width: 720px) {
+	.typing-title h1 {
+		font-size: 3rem;
+	}
+}
+
+.text-grey-1 {
+	color: #4f4f4f !important;
+}
+
+@media (min-width: 1025px) {
+	.typing-title h1 {
+		line-height: 7rem;
+	}
+	.logo-small {
+		display: none;
+	}
+	.header .logo-lg {
+		left: -320px;
+		top: 170px;
+		transform: rotate(-90deg);
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-ms-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+	}
+}
+
+@media (max-width: 1024px) {
+	.logo-lg {
+		display: none;
+	}
+}
+
+.header-text-ml-7 {
+	margin-left: 70px;
 }
 
