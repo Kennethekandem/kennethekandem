@@ -805,13 +805,13 @@ footer .copy {
 }
 
 @media (min-width: 1440px) {
-	.socials {
+	.socials-top {
 		text-align: left;
 	}
 }
 
 @media (min-width: 2560px) {
-	.section.started .socials {
+	.section.started .socials-top {
 		margin: 0 0 10px 315px;
 	}
 }
@@ -819,4 +819,12 @@ footer .copy {
 .header-text-ml-7 {
 	margin-left: 70px;
 }
+.split-name {
+	display: none;
+}
 
+@media (max-width: 414px) {
+	.section.started {
+		height: 180vh !important;
+	}
+}
