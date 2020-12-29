@@ -54,6 +54,7 @@
 
 .header .logo a {
 	color: #ffffff;
+	font-size: 20px;
 }
 
 .header .menu-btn {
@@ -814,6 +815,9 @@ footer .copy {
 @media (max-width: 1024px) {
 	.logo-lg {
 		display: none;
+	}
+	.header-about h1{
+		font-weight: 24px;
 	}
 }
 
