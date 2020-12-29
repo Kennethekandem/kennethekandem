@@ -286,8 +286,19 @@
 /* 3. Started */
 .section.started {
 	background-color: #000000;
-	height: 100vh !important;
+	height: 100vh;
 	padding: 0;
+	padding-top: 10rem;
+}
+.header-about h1{
+	text-align: left;
+	padding-left: 2rem;
+	font-weight: bold;
+	font-size: 70px;
+	color: #fff;
+}
+span{
+	color: grey;
 }
 
 .section.started .slide {
