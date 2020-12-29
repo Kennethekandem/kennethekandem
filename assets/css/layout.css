@@ -240,7 +240,7 @@
 
 .header.filled .menu-btn span:before,
 .header.filled .menu-btn span:after {
-	background: #292929;
+	/* background: #292929; */
 }
 
 .header.filled .top-menu {
@@ -250,7 +250,7 @@
 /* 2. Section */
 .section {
 	padding: 120px 0;
-	position: relative;
+	/* position: relative; */
 }
 
 @media (max-width: 720px) {
@@ -300,6 +300,8 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+
 
 .section.started .st-title,
 .section.started .typed-title {
@@ -817,7 +819,7 @@ footer .copy {
 }
 
 .header-text-ml-7 {
-	margin-left: 70px;
+	/* margin-left: 70px; */
 }
 .split-name {
 	display: none;
