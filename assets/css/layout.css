@@ -287,7 +287,7 @@
 /* 3. Started */
 .section.started {
 	background-color: #000000;
-	height: 100vh !important;
+	height: auto !important;
 	padding: 0;
 	padding-top: 10rem;
 }
@@ -840,10 +840,10 @@ footer .copy {
 		text-align: left;
 	}
 	.header-about h1 {
-		font-size: 80px;
+		font-size: 150px;
 	}
 	h1 {
-		line-height: 40px;
+		line-height: 120px;
 	}
 	/* .section.started {
 		height: 150vh !important;
@@ -860,6 +860,9 @@ footer .copy {
 	.socials-top {
 		text-align: left;
 	}
+	.big-write .fw {
+		max-width: 1600px;
+	}
 }
 
 .header-text-ml-7 {
@@ -873,4 +876,8 @@ footer .copy {
 	.section.started {
 		height: 180vh !important;
 	}
+}
+.header-about {
+	margin-top: -80px;
+	margin-bottom: 90px;
 }
