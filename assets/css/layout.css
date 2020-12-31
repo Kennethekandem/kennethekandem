@@ -876,6 +876,9 @@ footer .copy {
 	.section.started {
 		height: 180vh !important;
 	}
+	.header-about {
+		margin-top: 0;
+	}
 }
 .header-about {
 	margin-top: -80px;
