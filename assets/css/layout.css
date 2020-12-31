@@ -881,7 +881,7 @@ footer .copy {
 
 @media (max-width: 414px) {
 	.section.started {
-		height: 180vh !important;
+		height: 100vh !important;
 	}
 	.header-about {
 		margin-top: 0;
