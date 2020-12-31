@@ -287,7 +287,7 @@
 /* 3. Started */
 .section.started {
 	background-color: #000000;
-	height: 100vh;
+	height: 100vh !important;
 	padding: 0;
 	padding-top: 10rem;
 }
@@ -807,12 +807,15 @@ footer .copy {
 	}
 	.header .logo-lg {
 		left: -34%;
-		top: 150px;
+		top: -20px;
 		transform: rotate(-90deg);
 		-webkit-transform: rotate(-90deg);
 		-moz-transform: rotate(-90deg);
 		-ms-transform: rotate(-90deg);
 		-o-transform: rotate(-90deg);
+	}
+	.socials-top {
+		text-align: left;
 	}
 }
 
@@ -832,10 +835,19 @@ footer .copy {
 	}
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1439px) {
 	.socials-top {
 		text-align: left;
 	}
+	.header-about h1 {
+		font-size: 80px;
+	}
+	h1 {
+		line-height: 40px;
+	}
+	/* .section.started {
+		height: 150vh !important;
+	} */
 }
 
 @media (min-width: 2559px) {
@@ -844,6 +856,9 @@ footer .copy {
 	} */
 	.header .logo-lg {
 		top: 150px;
+	}
+	.socials-top {
+		text-align: left;
 	}
 }
 
