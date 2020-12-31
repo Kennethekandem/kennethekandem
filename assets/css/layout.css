@@ -843,7 +843,7 @@ footer .copy {
 		font-size: 150px;
 	}
 	h1 {
-		line-height: 120px;
+		line-height: 150px;
 	}
 	/* .section.started {
 		height: 150vh !important;
@@ -862,6 +862,9 @@ footer .copy {
 	}
 	.big-write .fw {
 		max-width: 1600px;
+	}
+	h1 {
+		line-height: 150px;
 	}
 }
 
