@@ -827,6 +827,9 @@ footer .copy {
 		width: 70%;
 		font-size: 21px;
 	}
+	.header .logo a {
+		font-size: 21px;
+	}
 }
 
 @media (min-width: 1440px) {
