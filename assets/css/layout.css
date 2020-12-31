@@ -838,9 +838,12 @@ footer .copy {
 	}
 }
 
-@media (min-width: 2560px) {
-	.section.started .socials-top {
+@media (min-width: 2559px) {
+	/* .section.started .socials-top {
 		margin: 0 0 10px 315px;
+	} */
+	.header .logo-lg {
+		top: 150px;
 	}
 }
 
