@@ -871,6 +871,10 @@ footer .copy {
 .split-name {
 	display: none;
 }
+.header-about {
+	margin-top: -80px;
+	margin-bottom: 90px;
+}
 
 @media (max-width: 414px) {
 	.section.started {
@@ -880,7 +884,4 @@ footer .copy {
 		margin-top: 0;
 	}
 }
-.header-about {
-	margin-top: -80px;
-	margin-bottom: 90px;
-}
+
