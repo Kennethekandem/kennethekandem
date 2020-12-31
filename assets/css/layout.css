@@ -54,7 +54,7 @@
 
 .header .logo a {
 	color: #ffffff;
-	font-size: 12px;
+	font-size: 21px;
 }
 
 .header .menu-btn {
@@ -806,7 +806,7 @@ footer .copy {
 		display: none;
 	}
 	.header .logo-lg {
-		left: -320px;
+		left: -34%;
 		top: 170px;
 		transform: rotate(-90deg);
 		-webkit-transform: rotate(-90deg);
