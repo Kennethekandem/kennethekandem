@@ -54,7 +54,7 @@
 
 .header .logo a {
 	color: #ffffff;
-	font-size: 23px;
+	font-size: 12px;
 }
 
 .header .menu-btn {
@@ -293,7 +293,7 @@
 }
 .header-about h1{
 	text-align: left;
-	padding-left: 2rem;
+	/* padding-left: 2rem; */
 	font-weight: bold;
 	font-size: 70px;
 	color: #fff;
@@ -388,8 +388,8 @@ span{
 		line-height: 86px;
 	}
 	.header-about h1{
-		font-size: 45px;
-		text-align: center;
+		font-size: 35px;
+		text-align: left;
 	}
 
 }
