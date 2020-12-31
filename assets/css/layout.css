@@ -823,6 +823,10 @@ footer .copy {
 	.header-about h1{
 		font-weight: 24px;
 	}
+	.logo-small{
+		width: 70%;
+		font-size: 21px;
+	}
 }
 
 @media (min-width: 1440px) {
