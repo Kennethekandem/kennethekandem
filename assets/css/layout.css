@@ -78,6 +78,7 @@
 @media (max-width: 1079px) {
 	.header .menu-btn {
 		display: block;
+		margin-right: -25px;
 	}
 
 }
