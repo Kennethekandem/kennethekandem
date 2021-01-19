@@ -837,6 +837,7 @@ footer .copy {
 }
 
 @media (min-width: 1439px) {
+
 	.socials-top {
 		text-align: left;
 	}
@@ -846,9 +847,9 @@ footer .copy {
 	h1 {
 		line-height: 150px;
 	}
-	/* .section.started {
-		height: 150vh !important;
-	} */
+	.section.started {
+		height: auto !important;
+	}
 }
 
 @media (min-width: 2559px) {
@@ -866,6 +867,9 @@ footer .copy {
 	}
 	h1 {
 		line-height: 150px;
+	}
+	.section.started {
+		height: 100vh !important;
 	}
 }
 
