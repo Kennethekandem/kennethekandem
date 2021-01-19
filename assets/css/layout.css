@@ -288,7 +288,7 @@
 /* 3. Started */
 .section.started {
 	background-color: #000000;
-	height: 100vh !important;
+	height: auto !important;
 	padding: 0;
 	padding-top: 10rem;
 }
@@ -296,7 +296,7 @@
 	text-align: left;
 	/* padding-left: 2rem; */
 	font-weight: bold;
-	font-size: 70px;
+	font-size: 140px;
 	color: #fff;
 }
 span{
