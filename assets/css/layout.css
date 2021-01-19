@@ -404,7 +404,7 @@ span{
 	}
 
 	.section.started .socials {
-		margin: 0 0 0px 10px;
+		/*margin: 0 0 0px 10px;*/
 	}
 
 	.section.started .socials a {
@@ -842,7 +842,7 @@ footer .copy {
 }
 .header-about {
 	margin-top: -80px;
-	margin-bottom: 40px;
+	margin-bottom: 90px;
 }
 
 @media (max-width: 414px) {
@@ -852,6 +852,7 @@ footer .copy {
 	}
 	.header-about {
 		margin-top: 0;
+		margin-bottom: 40px;
 	}
 }
 
