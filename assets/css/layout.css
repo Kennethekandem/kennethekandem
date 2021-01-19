@@ -288,7 +288,7 @@
 /* 3. Started */
 .section.started {
 	background-color: #000000;
-	height: auto !important;
+	height: 100vh !important;
 	padding: 0;
 	padding-top: 10rem;
 }
