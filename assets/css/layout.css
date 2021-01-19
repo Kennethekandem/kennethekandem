@@ -339,9 +339,8 @@ span{
 .section.started .typed-cursor {
 	display: none;
 }
-
-.section.started .socials {
-	margin: 0 100px;
+.social-header {
+	text-align: left;
 }
 
 .section.started .socials a {
@@ -618,7 +617,6 @@ footer .copy {
 .socials {
 	position: relative;
 	margin: 0 0 20px 0;
-	text-align: left;
 }
 
 .colors_sel{position:fixed;top:100px;left:-180px;box-shadow:0 0 15px rgba(0,0,0,.1);-moz-box-shadow:0 0 15px rgba(0,0,0,.1);-webkit-box-shadow:0 0 15px rgba(0,0,0,.1);width:180px;padding:20px;text-align:center;transition:all .4s ease 0s;-moz-transition:all .4s ease 0s;-webkit-transition:all .4s ease 0s;-o-transition:all .4s ease 0s;background:#fff;z-index:104}.colors_sel:hover{left:0}.colors_sel .tit{text-transform:uppercase;font-weight:300;border-bottom:1px solid #eee;padding-bottom:12px;margin-bottom:12px}.colors_sel li{display:inline-block;vertical-align:top;margin:10px 8px}.colors_sel li span{display:block;width:20px;height:20px}.colors_sel a.btn_ic{position:absolute;top:0;right:-46px;width:46px;height:46px;box-shadow:0 0 15px rgba(0,0,0,.1);-moz-box-shadow:0 0 15px rgba(0,0,0,.1);-webkit-box-shadow:0 0 15px rgba(0,0,0,.1);background:#fff;padding-top:13px}.colors_sel .btn_ic .ion{font-size:21px}
