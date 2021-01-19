@@ -3735,9 +3735,6 @@
       <change afterPath="$PROJECT_DIR$/../washjunkie-angular" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../washjunkie_api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3750,11 +3747,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1321">
-              <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+            <state relative-caret-position="224">
+              <caret line="461" column="4" selection-start-line="461" selection-start-column="4" selection-end-line="461" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -3762,17 +3759,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="724">
-              <caret line="826" column="22" lean-forward="true" selection-start-line="826" selection-start-column="22" selection-end-line="826" selection-end-column="22" />
+            <state relative-caret-position="17346">
+              <caret line="826" column="22" selection-start-line="826" selection-start-column="22" selection-end-line="826" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+            <state relative-caret-position="2520">
+              <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -3780,8 +3777,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="4814" column="22" lean-forward="true" selection-start-line="4814" selection-start-column="22" selection-end-line="4814" selection-end-column="22" />
+            <state relative-caret-position="100821">
+              <caret line="4814" column="22" selection-start-line="4814" selection-start-column="22" selection-end-line="4814" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -3789,8 +3786,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="499" column="17" lean-forward="true" selection-start-line="499" selection-start-column="17" selection-end-line="499" selection-end-column="17" />
+            <state relative-caret-position="10479">
+              <caret line="499" column="17" selection-start-line="499" selection-start-column="17" selection-end-line="499" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -3828,7 +3825,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -3922,18 +3919,22 @@
       <workItem from="1602235163395" duration="331000" />
       <workItem from="1602489816771" duration="598000" />
       <workItem from="1606312922605" duration="5033000" />
-      <workItem from="1606381958607" duration="6695000" />
+      <workItem from="1606381958607" duration="7381000" />
+      <workItem from="1606467329634" duration="546000" />
+      <workItem from="1606473002501" duration="257000" />
+      <workItem from="1607589715474" duration="8000" />
+      <workItem from="1607589969198" duration="413000" />
+      <workItem from="1607593311993" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31985000" />
+    <option name="totallyTimeSpent" value="33974000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14450637" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1504777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -3990,38 +3991,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="4814" column="22" lean-forward="true" selection-start-line="4814" selection-start-column="22" selection-end-line="4814" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="499" column="17" lean-forward="true" selection-start-line="499" selection-start-column="17" selection-end-line="499" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1321">
-          <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+        <state relative-caret-position="224">
+          <caret line="461" column="4" selection-start-line="461" selection-start-column="4" selection-end-line="461" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="826" column="22" lean-forward="true" selection-start-line="826" selection-start-column="22" selection-end-line="826" selection-end-column="22" />
+        <state relative-caret-position="17346">
+          <caret line="826" column="22" selection-start-line="826" selection-start-column="22" selection-end-line="826" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        <state relative-caret-position="2520">
+          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100821">
+          <caret line="4814" column="22" selection-start-line="4814" selection-start-column="22" selection-end-line="4814" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10479">
+          <caret line="499" column="17" selection-start-line="499" selection-start-column="17" selection-end-line="499" selection-end-column="17" />
         </state>
       </provider>
     </entry>
