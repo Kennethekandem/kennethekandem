@@ -895,4 +895,11 @@ footer .copy {
 .header-about h1 {
 	margin: 0;
 }
+.app_icons {
+	float: right;
+}
+
+.app_icons i {
+	font-size: 1.5rem;
+}
 
