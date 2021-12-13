@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a0f4f27-7952-48a8-91c6-9b90014e357c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zabira-Web-Frontend-Development" beforeDir="false" afterPath="$PROJECT_DIR$/../Zabira-Web-Frontend-Development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-datatable" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-datatable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bongist" beforeDir="false" afterPath="$PROJECT_DIR$/../bongist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buzzit_api" beforeDir="false" afterPath="$PROJECT_DIR$/../buzzit_api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../david-axios" beforeDir="false" afterPath="$PROJECT_DIR$/../david-axios" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../express-api-starter-mongo" beforeDir="false" afterPath="$PROJECT_DIR$/../express-api-starter-mongo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../express-prisma" beforeDir="false" afterPath="$PROJECT_DIR$/../express-prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../express/express_crash_course" beforeDir="false" afterPath="$PROJECT_DIR$/../express/express_crash_course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gosprint" beforeDir="false" afterPath="$PROJECT_DIR$/../gosprint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grip-web-app" beforeDir="false" afterPath="$PROJECT_DIR$/../grip-web-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-angular-chat-app" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript-angular-chat-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-react-chat-app" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript-react-chat-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../john-midas" beforeDir="false" afterPath="$PROJECT_DIR$/../john-midas" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lifepith" beforeDir="false" afterPath="$PROJECT_DIR$/../lifepith" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lifepith.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../lifepith.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lumen_mutiple_authentication" beforeDir="false" afterPath="$PROJECT_DIR$/../lumen_mutiple_authentication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage" beforeDir="false" afterPath="$PROJECT_DIR$/../manage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-comet" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-comet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../payslip" beforeDir="false" afterPath="$PROJECT_DIR$/../payslip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pollbook" beforeDir="false" afterPath="$PROJECT_DIR$/../pollbook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pollbook_mobile" beforeDir="false" afterPath="$PROJECT_DIR$/../pollbook_mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recreateapp-dev" beforeDir="false" afterPath="$PROJECT_DIR$/../recreateapp-dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recreateapp-landing-page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tex" beforeDir="false" afterPath="$PROJECT_DIR$/../tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinder-clone" beforeDir="false" afterPath="$PROJECT_DIR$/../tinder-clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinder-express" beforeDir="false" afterPath="$PROJECT_DIR$/../tinder-express" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinder_cometUI" beforeDir="false" afterPath="$PROJECT_DIR$/../tinder_cometUI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../topnotch-api" beforeDir="false" afterPath="$PROJECT_DIR$/../topnotch-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone" beforeDir="false" afterPath="$PROJECT_DIR$/../whatsapp_clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_express" beforeDir="false" afterPath="$PROJECT_DIR$/../whatsapp_express" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wurlet" beforeDir="false" afterPath="$PROJECT_DIR$/../wurlet" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +85,9 @@
       </list>
     </option>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="1epjv38x" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
@@ -92,6 +130,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -107,6 +147,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -152,6 +193,8 @@
       <workItem from="1611733303430" duration="741000" />
       <workItem from="1611836329573" duration="1258000" />
       <workItem from="1617833122297" duration="1804000" />
+      <workItem from="1630239541427" duration="89000" />
+      <workItem from="1639404300694" duration="387000" />
     </task>
     <servers />
   </component>
@@ -195,6 +238,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/fonts/ionicons-v=2.0.1.ttf">
