@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a0f4f27-7952-48a8-91c6-9b90014e357c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zabira-Web-Frontend-Development" beforeDir="false" afterPath="$PROJECT_DIR$/../Zabira-Web-Frontend-Development" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../angular-datatable" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-datatable" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bongist" beforeDir="false" afterPath="$PROJECT_DIR$/../bongist" afterDir="false" />
@@ -18,8 +17,6 @@
       <change beforePath="$PROJECT_DIR$/../javascript-react-chat-app" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript-react-chat-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../john-midas" beforeDir="false" afterPath="$PROJECT_DIR$/../john-midas" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lifepith" beforeDir="false" afterPath="$PROJECT_DIR$/../lifepith" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lifepith.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../lifepith.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lumen_mutiple_authentication" beforeDir="false" afterPath="$PROJECT_DIR$/../lumen_mutiple_authentication" afterDir="false" />
@@ -194,7 +191,7 @@
       <workItem from="1611836329573" duration="1258000" />
       <workItem from="1617833122297" duration="1804000" />
       <workItem from="1630239541427" duration="89000" />
-      <workItem from="1639404300694" duration="387000" />
+      <workItem from="1639404300694" duration="1001000" />
     </task>
     <servers />
   </component>
