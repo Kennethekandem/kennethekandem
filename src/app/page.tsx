@@ -81,7 +81,7 @@ export default function Home() {
                 Software Engineer · Lagos, Nigeria
               </p>
               <p className="max-w-[520px] leading-relaxed">
-                Building reliable systems for the web. Currently founding Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously scaled a $35M platform at SMCDAO.
+                Building reliable systems for the web. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously scaled a $35M platform at SMCDAO.
               </p>
             </div>
             <div className="flex-shrink-0 w-32 h-32 rounded-full overflow-hidden" style={{ border: "2px solid var(--border)" }}>
