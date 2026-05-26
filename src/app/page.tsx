@@ -119,7 +119,7 @@ export default function Home() {
                 </a>
                 <span className="text-sm" style={{ color: "var(--muted)" }}>2024 — present</span>
               </div>
-              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Founder & Engineer</p>
+              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Founding Engineer</p>
               <ul className="space-y-2" style={{ color: "#555" }}>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Building trust infrastructure for Nigeria&apos;s service economy — a marketplace connecting verified service providers with customers across Nigeria</li>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Designed and own the full stack: Elixir/OTP backend (order lifecycle, push notifications), NextJS API, React Native mobile app</li>
