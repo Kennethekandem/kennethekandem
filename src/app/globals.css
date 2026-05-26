@@ -48,6 +48,16 @@
   --muted: #888580;
   --accent: #1a6b3c;
   --border: #e8e5e0;
+  --nav-bg: #ffffff;
+}
+
+.dark {
+  --background: #111110;
+  --text: #ffffff;
+  --muted: #6b6965;
+  --accent: #4ade80;
+  --border: #2a2824;
+  --nav-bg: #111110;
 }
 
 @theme inline {
@@ -56,6 +66,7 @@
   --color-muted: var(--muted);
   --color-accent: var(--accent);
   --color-border: var(--border);
+  --color-nav-bg: var(--nav-bg);
   --font-mono: 'IBM Plex Mono', monospace;
 }
 
@@ -82,7 +93,7 @@ a {
 }
 
 a:hover {
-  color: var(--accent);
+  color: var(--accent) !important;
 }
 
 html {
@@ -134,4 +145,14 @@ html {
 
 .mobile-nav {
   display: none;
+}
+
+/* Dark mode list item text color */
+.dark li[style*="border-left"],
+.dark span[style*="color: #555"] {
+  color: #a0a0a0 !important;
+}
+
+.dark a:hover {
+  color: var(--accent) !important;
 }
