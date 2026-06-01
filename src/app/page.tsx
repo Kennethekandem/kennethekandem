@@ -91,7 +91,7 @@ export default function Home() {
                 Building reliable systems for the web. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously scaled a $32M platform at SMCDAO.
               </p>
               <p className="max-w-[520px] text-sm mt-4 leading-relaxed" style={{ color: "var(--muted)" }}>
-                Off the clock: space, reading, and podcasts — with a standing hope to make it off-planet someday.
+                Off the clock: space, music, and gaming. Slowly making my way through the Three-Body trilogy.
               </p>
             </div>
             <div className="flex-shrink-0 w-32 h-32 rounded-full overflow-hidden" style={{ border: "2px solid var(--border)" }}>
