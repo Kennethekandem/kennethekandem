@@ -77,11 +77,21 @@ export default function Home() {
                 <br />
                 <em className="font-normal" style={{ color: "var(--accent)" }}>Ekandem.</em>
               </h1>
-              <p className="text-sm mb-6" style={{ color: "var(--muted)" }}>
+              <p className="text-sm mb-4" style={{ color: "var(--muted)" }}>
                 Software Engineer · Lagos, Nigeria
               </p>
+              <div className="inline-flex items-center gap-2 mb-6 px-3 py-1 rounded-full text-xs" style={{ border: "1px solid var(--border)" }}>
+                <span className="relative flex h-2 w-2">
+                  <span className="absolute inline-flex h-full w-full rounded-full opacity-75 animate-ping" style={{ backgroundColor: "#22c55e" }} />
+                  <span className="relative inline-flex h-2 w-2 rounded-full" style={{ backgroundColor: "#22c55e" }} />
+                </span>
+                Open to senior engineering roles
+              </div>
               <p className="max-w-[520px] leading-relaxed">
-                Building reliable systems for the web. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously scaled a $35M platform at SMCDAO.
+                Building reliable systems for the web. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously scaled a $32M platform at SMCDAO.
+              </p>
+              <p className="max-w-[520px] text-sm mt-4 leading-relaxed" style={{ color: "var(--muted)" }}>
+                Off the clock: space, reading, and podcasts — with a standing hope to make it off-planet someday.
               </p>
             </div>
             <div className="flex-shrink-0 w-32 h-32 rounded-full overflow-hidden" style={{ border: "2px solid var(--border)" }}>
@@ -145,11 +155,11 @@ export default function Home() {
               <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Software Engineer</p>
               <ul className="space-y-2" style={{ color: "#555" }}>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Joined as a senior engineer and owned the entire backend and community infrastructure</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built and launched v1 of the mobile app — the primary interface for 40,000+ users and 5,000+ DAU</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built and launched v1 and v2 of the mobile app — the primary interface for 40,000+ users and 5,000+ DAU</li>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Designed and shipped a real-time chat service powering community communications, built on Phoenix Channels and OTP</li>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built an internal payroll system for the team</li>
                 <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Architected the distributed backend: Auth, API, Socket, and Indexer microservices on Docker with auto-scaling</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>The platform raised $35M in funds on the strength of the infrastructure and product</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>The platform raised $32M in funds on the strength of the infrastructure and product</li>
               </ul>
             </div>
 
@@ -310,6 +320,17 @@ export default function Home() {
           </div>
 
           <div className="space-y-3">
+            <div className="flex justify-between">
+              <span className="text-sm" style={{ color: "var(--muted)" }}>resume</span>
+              <a
+                href="/Kenneth_Ekandem_Resume.docx"
+                download
+                className="hover:underline"
+                style={{ color: "var(--accent)" }}
+              >
+                Download (.docx) ↓
+              </a>
+            </div>
             <div className="flex justify-between">
               <span className="text-sm" style={{ color: "var(--muted)" }}>email</span>
               <a
