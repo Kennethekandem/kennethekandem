@@ -165,7 +165,15 @@ export default function Home() {
 
             <div>
               <div className="flex justify-between items-start mb-1">
-                <span className="font-medium">Afara Partners</span>
+                <a
+                  href="https://afarapartners.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium hover:underline"
+                  style={{ color: "var(--accent)" }}
+                >
+                  Afara Partners ↗
+                </a>
                 <span className="text-sm" style={{ color: "var(--muted)" }}>2022 — 2023</span>
               </div>
               <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Backend Engineer</p>
@@ -177,7 +185,16 @@ export default function Home() {
 
             <div>
               <div className="flex justify-between items-start mb-1">
-                <span className="font-medium">Codekago Interactive</span>
+                {/* <span className="font-medium">Codekago Interactive</span> */}
+                <a
+                  href="https://codekago.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium hover:underline"
+                  style={{ color: "var(--accent)" }}
+                >
+                  Codekago Interactive ↗
+                </a>
                 <span className="text-sm" style={{ color: "var(--muted)" }}>2019 — 2022</span>
               </div>
               <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Intern → Lead Engineer</p>
