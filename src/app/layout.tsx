@@ -6,8 +6,18 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 const GTM_ID = "GTM-NPWGNV43";
 
 export const metadata: Metadata = {
-  title: "Kenneth Ekandem — Software Engineer",
-  description: "Software Engineer · Lagos, Nigeria",
+  title: "Kenneth Ekandem — Senior Backend Engineer",
+  description:
+    "Senior backend engineer building real-time, high-scale systems and blockchain infrastructure. Seven years in fintech and web3 — from a platform serving 40,000+ users to wallet and chain integrations. Lagos, WAT. Open to senior remote roles and select contracts.",
+  authors: [{ name: "Kenneth Ekandem", url: "https://kennethekandem.com" }],
+  openGraph: {
+    title: "Kenneth Ekandem — Senior Backend Engineer",
+    description:
+      "Real-time, high-scale backend systems and blockchain infrastructure. Seven years in fintech and web3.",
+    type: "profile",
+    siteName: "Kenneth Ekandem",
+    locale: "en_NG",
+  },
   icons: {
     icon: "/icon.png",
   },

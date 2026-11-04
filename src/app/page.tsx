@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Image from "next/image";
+import { NameCard } from "@/components/NameCard";
 import { ThemeToggle } from "@/components/ThemeToggle";
 
 const sections = ["work", "projects", "writing", "contact"];
@@ -69,42 +69,31 @@ export default function Home() {
       </nav>
 
       <main className="max-w-[80ch] mx-auto px-8 pt-20 pb-20 main-mobile-pb">
-        <header className="pb-8 mb-8" style={{ borderBottom: "1px solid var(--border)" }}>
-          <div className="flex items-start gap-8 header-flex">
-            <div className="flex-1">
-              <h1 className="text-5xl font-medium leading-tight mb-2">
-                Kenneth
-                <br />
-                <em className="font-normal" style={{ color: "var(--accent)" }}>Ekandem.</em>
-              </h1>
-              <p className="text-sm mb-4" style={{ color: "var(--muted)" }}>
-                Software Engineer · Lagos, Nigeria
-              </p>
-              <div className="inline-flex items-center gap-2 mb-6 px-3 py-1 rounded-full text-xs" style={{ border: "1px solid var(--border)" }}>
-                <span className="relative flex h-2 w-2">
-                  <span className="absolute inline-flex h-full w-full rounded-full opacity-75 animate-ping" style={{ backgroundColor: "#22c55e" }} />
-                  <span className="relative inline-flex h-2 w-2 rounded-full" style={{ backgroundColor: "#22c55e" }} />
-                </span>
-                Open to senior engineering roles
-              </div>
-              <p className="max-w-[520px] leading-relaxed">
-                Building reliable systems for the web. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy. Previously at SMCDAO.
-              </p>
-              <p className="max-w-[520px] text-sm mt-4 leading-relaxed" style={{ color: "var(--muted)" }}>
-                Off the clock: space, music, and gaming. Slowly making my way through the Three-Body trilogy.
-              </p>
-            </div>
-            <div className="flex-shrink-0 w-32 h-32 rounded-full overflow-hidden" style={{ border: "2px solid var(--border)" }}>
-              <Image
-                src="https://pub-f036ac7395dc44b3a3817480654264f1.r2.dev/kenneth/Screenshot%202026-05-25%20at%2018.27.36.png"
-                alt="Kenneth Ekandem"
-                width={128}
-                height={128}
-                className="w-full h-full object-cover object-top"
-                priority
-              />
+        <header className="pb-10 mb-10" style={{ borderBottom: "1px solid var(--border)" }}>
+          <NameCard />
+
+          <div className="mt-5 flex flex-col items-start gap-3">
+            <p className="text-[13px]" style={{ color: "var(--muted)" }}>
+              Lagos, Nigeria · WAT (UTC+1)
+            </p>
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs max-w-full" style={{ border: "1px solid var(--border)" }}>
+              <span className="relative flex h-2 w-2 shrink-0">
+                <span className="absolute inline-flex h-full w-full rounded-full opacity-75 animate-ping" style={{ backgroundColor: "#22c55e" }} />
+                <span className="relative inline-flex h-2 w-2 rounded-full" style={{ backgroundColor: "#22c55e" }} />
+              </span>
+              <span className="min-w-0 leading-snug">Open to senior remote roles · select contracts</span>
             </div>
           </div>
+
+          <p className="name-lead mt-6">
+            I build backend systems that hold up under real load — real-time services, payment rails, and chain integrations for fintech and web3.
+          </p>
+          <p className="text-sm mt-4 max-w-[32rem] leading-relaxed" style={{ color: "var(--muted)" }}>
+            Seven years in production, from a platform serving 40,000+ users to wallet and chain work. Currently building Rivet — trust infrastructure for Nigeria&apos;s service economy.
+          </p>
+          <p className="text-[13px] mt-3 max-w-[32rem] leading-relaxed" style={{ color: "var(--muted)" }}>
+            Off the clock: space, music, and gaming. Slowly making my way through the Three-Body trilogy.
+          </p>
         </header>
 
         <section id="work" className="mb-10 scroll-mt-20">
@@ -129,14 +118,13 @@ export default function Home() {
                 </a>
                 <span className="text-sm" style={{ color: "var(--muted)" }}>2023 — 2025</span>
               </div>
-              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Software Engineer</p>
+              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>Software Engineer · platform raised $32M</p>
+              {/* Slot: peak concurrent socket connections for bullet 3, retention for bullet 4. */}
               <ul className="space-y-2" style={{ color: "#555" }}>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Joined as a senior engineer and owned the entire backend and community infrastructure</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built and launched v1 and v2 of the mobile app — the primary interface for 40,000+ users and 5,000+ DAU</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Designed and shipped a real-time chat service powering community communications, built on Phoenix Channels and OTP</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built an internal payroll system for the team</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Architected the distributed backend: Auth, API, Socket, and Indexer microservices on Docker with auto-scaling</li>
-                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>The platform raised $32M in funds on the strength of the infrastructure and product</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Owned backend and community infrastructure end to end</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Architected Auth, API, Socket and Indexer as independently deployable services on Docker with auto-scaling — 40,000+ users at 5,000+ daily active</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Built real-time chat on Phoenix Channels and OTP, fanning messages across persistent socket connections</li>
+                <li className="pl-4" style={{ borderLeft: "1px solid var(--border)" }}>Led v1 and v2 of the mobile app — the product surface most users actually touch</li>
               </ul>
             </div>
 
@@ -204,7 +192,19 @@ export default function Home() {
               >
                 Rivet ↗
               </a>
-              <span className="text-sm text-right max-w-[280px] project-desc" style={{ color: "#555" }}>Service provision marketplace</span>
+              <span className="text-sm text-right max-w-[280px] project-desc" style={{ color: "#555" }}>Trust infrastructure for Nigeria&apos;s service economy</span>
+            </div>
+            <div className="flex justify-between items-start project-row">
+              <a
+                href="https://minepi.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:underline"
+                style={{ color: "var(--accent)" }}
+              >
+                Pi Network integration ↗
+              </a>
+              <span className="text-sm text-right max-w-[280px] project-desc" style={{ color: "#555" }}>Stellar RPC wallets — keypair creation, balance sync, signed transactions</span>
             </div>
             <div className="flex justify-between items-start project-row">
               <a
